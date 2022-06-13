@@ -1,0 +1,31 @@
+.parent {
+    display: flex;
+}
+.child {
+    height:500px ;
+    width: 300px ;
+    background-color: orange;
+    border: ridge red;
+    margin: 10px;
+    
+    
+}
+
+.childd {
+    height:600px ;
+    width:500px ;
+        background-color: gold;
+    border: solid purple;
+    margin: 10px;
+}
+
+.childdd {
+    height:500px ;
+    width:300px ;
+    background-color: orange;
+    border: ridge red; 
+    margin:10px;
+}
+img {
+    width: 200px;
+}
